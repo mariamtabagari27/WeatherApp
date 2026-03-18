@@ -1,7 +1,7 @@
 # Weather App 🌤️
 
 ## Overview
-This is a fun and simple Weather App built with **SwiftUI** for iOS. It shows the weather for your city, including the temperature and a 5-day forecast. You can also toggle between **day and night mode** for a cool vibe. 😎🌙
+This is a fun and simple Weather App built with **SwiftUI** for iOS. It shows the weather for your city, including the temperature and a 5-day forecast. You can also toggle between **day and night mode** :>
 
 ## Features
 - Dynamic daily weather (randomized for now, can be linked to real API later)  
