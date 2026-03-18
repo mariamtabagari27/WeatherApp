@@ -1,0 +1,24 @@
+# Xcode
+DerivedData/
+*.xcuserdatad/
+*.xcworkspace/
+*.xcuserstate
+*.xcodeproj/\*.pbxuser
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Swift
+*.swp
+*.swm
+*.swo
+
+# Build directories
+build/
+*.o
+*.d
+*.a
+
+# Misc
+*.log
+*.DS_Store
+*.swp
+*.swo
